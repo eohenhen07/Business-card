@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.wrapper{
+    display: flex;
+    padding-top: 40px;
+    justify-content:space-around;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(212, 212, 240);
+    border-bottom: 6px solid rgb(123, 123, 235);
+    border-radius: 12px;
+}
+img{
+    margin-left: 15px;
+}
+.wrapper h3{
+    font-size: 22px;
+    text-shadow: 0.5px 0.5px;
+ }
+ .wrapper p:hover{
+    font-size: 17px;
+    color: #023047;
+    color: #033a64;
+ }
+ 
